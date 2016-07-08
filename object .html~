@@ -1,0 +1,5 @@
+<script>
+     var obj = {name:"sharad"};
+     obj.roll = 10;
+     console.log(obj);
+</script>

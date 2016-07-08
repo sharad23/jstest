@@ -1,0 +1,5 @@
+<script>
+     var abc = {};
+     abc.test.name = "Sharad";
+     console.log(abc);
+</script>
